@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "820357106054",
+    "project_id": "flixfelx-e1229",
+    "storage_bucket": "flixfelx-e1229.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820357106054:android:06c7c7142d7613f88ac407",
+        "android_client_info": {
+          "package_name": "com.example.fixflex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820357106054-1k1opdnio31648foda2h7lck97pits0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fixflex",
+            "certificate_hash": "f1a34f854e61e0dc2517da4ef0d80020351ddf47"
+          }
+        },
+        {
+          "client_id": "820357106054-cs0g13do0o884m6n5302md44h45rn5o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fixflex",
+            "certificate_hash": "a1cb038addb13efb1dbf26140c01842d34177715"
+          }
+        },
+        {
+          "client_id": "820357106054-f1had5ooc2teldi9t9bkmv74i8eerc47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkprSDkTbweSer7-n1LfjeOL9Dev0UhRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820357106054-f1had5ooc2teldi9t9bkmv74i8eerc47.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "820357106054-8ovlicdlc5ll7530c41g5qntucna7amh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testApk"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820357106054:android:4081005b263596398ac407",
+        "android_client_info": {
+          "package_name": "com.example.test_apk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820357106054-f1had5ooc2teldi9t9bkmv74i8eerc47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkprSDkTbweSer7-n1LfjeOL9Dev0UhRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820357106054-f1had5ooc2teldi9t9bkmv74i8eerc47.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "820357106054-8ovlicdlc5ll7530c41g5qntucna7amh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testApk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

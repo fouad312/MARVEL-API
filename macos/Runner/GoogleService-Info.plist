@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>820357106054-8ovlicdlc5ll7530c41g5qntucna7amh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.820357106054-8ovlicdlc5ll7530c41g5qntucna7amh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>820357106054-1k1opdnio31648foda2h7lck97pits0s.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDvv57v0C2-djKQXp25CpT7ypH-QamlvFw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>820357106054</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.testApk</string>
+	<key>PROJECT_ID</key>
+	<string>flixfelx-e1229</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flixfelx-e1229.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:820357106054:ios:5fc9de2ab8a1b6538ac407</string>
+</dict>
+</plist>
